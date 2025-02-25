@@ -1,5 +1,16 @@
 # music-store-analysis-SQL
 
+## objective
+This SQL project analyzes the dataset of a music store to extract meaningful insights about customers, sales, artists, and genres. The objective is to identify trends, recognize top-performing entities (such as customers, artists, and genres), and support business decisions using SQL queries.
+
+The project focuses on:
+
+- Identifying the senior-most employee.
+- Analyzing invoice patterns across countries and cities.
+- Determining top-spending customers.
+- Finding the most popular music genres per country.
+- Recognizing the top rock artists.
+
 -- sql project
 --Q1 WHO IS THE SENIOR MOST EMPLOYEE BASED ON THE JOB TITILE?
 
